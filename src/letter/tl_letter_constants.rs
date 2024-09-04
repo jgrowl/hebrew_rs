@@ -1,0 +1,32 @@
+//use crate::letter::Letter;
+//use crate::letter::letter_constants::*;
+//use crate::letter::base_constants as BC;
+//
+//pub const a: Letter = א;
+//pub const b: Letter = ב;
+//pub const g: Letter = ג;
+//pub const d: Letter = ד;
+//pub const h: Letter = ה;
+//pub const w: Letter = ו;
+//pub const z: Letter = ז;
+//pub const ch: Letter = ח;
+//pub const t: Letter = ט;
+//pub const y: Letter = י;
+//pub const כ: Letter = Letter::new(BC::כ);
+//pub const l: Letter = ל;
+//pub const m: Letter = מ;
+//pub const n: Letter = נ;
+//pub const s: Letter = ס;
+//pub const ע: Letter = Letter::new(BC::ע);
+//pub const פ: Letter = Letter::new(BC::פ);
+//pub const tz: Letter = צ;
+//pub const ק: Letter = Letter::new(BC::ק);
+//pub const r: Letter = ר;
+//pub const sh: Letter = ש;
+//pub const th: Letter = ת;
+//
+//pub const ך: Letter = Letter::new(BC::ך);
+//pub const ם: Letter = Letter::new(BC::ם);
+//pub const ן: Letter = Letter::new(BC::ן);
+//pub const ף: Letter = Letter::new(BC::ף);
+//pub const ץ: Letter = Letter::new(BC::ץ);

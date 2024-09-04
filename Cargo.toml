@@ -1,0 +1,14 @@
+[package]
+name = "hebrew"
+version = "0.1.0"
+edition = "2021"
+license = "AGPL-3.0-only"
+keywords = ["hebrew"]
+description = "Hebrew alephbet primatives and parsing library for rust."
+authors = ["Yonatan <jonrowlands83@gmail.com>"]
+
+[dependencies]
+unicode-segmentation = "1.11"
+strum = "0.26"
+strum_macros = "0.26"
+

@@ -1,0 +1,31 @@
+use super::*;
+use crate::letter::base_constants as BC;
+
+pub const א: Letter = Letter::new(BC::א);
+pub const ב: Letter = Letter::new(BC::ב);
+pub const ג: Letter = Letter::new(BC::ג);
+pub const ד: Letter = Letter::new(BC::ד);
+pub const ה: Letter = Letter::new(BC::ה);
+pub const ו: Letter = Letter::new(BC::ו);
+pub const ז: Letter = Letter::new(BC::ז);
+pub const ח: Letter = Letter::new(BC::ח);
+pub const ט: Letter = Letter::new(BC::ט);
+pub const י: Letter = Letter::new(BC::י);
+pub const כ: Letter = Letter::new(BC::כ);
+pub const ל: Letter = Letter::new(BC::ל);
+pub const מ: Letter = Letter::new(BC::מ);
+pub const נ: Letter = Letter::new(BC::נ);
+pub const ס: Letter = Letter::new(BC::ס);
+pub const ע: Letter = Letter::new(BC::ע);
+pub const פ: Letter = Letter::new(BC::פ);
+pub const צ: Letter = Letter::new(BC::צ);
+pub const ק: Letter = Letter::new(BC::ק);
+pub const ר: Letter = Letter::new(BC::ר);
+pub const ש: Letter = Letter::new(BC::ש);
+pub const ת: Letter = Letter::new(BC::ת);
+
+pub const ך: Letter = Letter::new(BC::ך);
+pub const ם: Letter = Letter::new(BC::ם);
+pub const ן: Letter = Letter::new(BC::ן);
+pub const ף: Letter = Letter::new(BC::ף);
+pub const ץ: Letter = Letter::new(BC::ץ);
