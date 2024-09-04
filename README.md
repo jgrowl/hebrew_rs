@@ -12,16 +12,19 @@ nikkud dots, letters, words, and phrases (sentences).
 - [x] Support converting letters into their final versions and vice versa
 - [x] Support letters with most common nikkud 
 - [x] Provide ability to remove all nikkud from a letter or word
-        Note that while dots can be removed, they cannot be added to words that did not
-        have them to begin with. There is no logic to determine the proper nikkud.
-        Dots in the original parsed string can be preserved however.
+
+Note that while dots can be removed, they cannot be added to words that did not
+have them to begin with. There is no logic to determine the proper nikkud.
+Dots in the original parsed string can be preserved however.
 
 - [ ] Support all unicode Hebrew characters (See dots.rs for what is an isn't supported)
 - [x] Support word parsing 
 - [ ] Support phrase (and sentence) parsing
-        A naive method of just tokenizing on space characters can split phrases up into
-        a vector of words, which in turn are a vec of letter structs that include a base
-        and dots. A more fully featured method will hopefully be implemented in the future.
+
+A naive method of just tokenizing on space characters can split phrases up into
+a vector of words, which in turn are a vec of letter structs that include a base
+and dots. A more fully featured method will hopefully be implemented in the future.
+
 - [ ] Preserve all split characters in phrases
 - [x] Provide full word representations of each letter
 
