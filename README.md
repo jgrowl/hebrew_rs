@@ -47,7 +47,7 @@ sometimes when it occurs at the end of a word:
 
 ### Non end forms
 
-א, ב, ג, ד, ה, ו, ז, ח, ט, י, כ, ל, מ, נ, ס, ע, פ, צ, ק, ר, ש, ת,
+א, ב, ג, ד, ה, ו, ז, ח, ט, י, כ, ל, מ, נ, ס, ע, פ, צ, ק, ר, ש, ת
 
 Note that ה (Heh) looks a lot like ח (Chet) and ת (Tav)
 
@@ -60,9 +60,13 @@ Note that ה (Heh) looks a lot like ח (Chet) and ת (Tav)
 #### Non end forms to end forms conversion
 
 כ => ך
+
 מ => ם
+
 נ => ן
+
 פ => ף
+
 צ => ץ
 
 Note that some final versions look like a different character but are not:
