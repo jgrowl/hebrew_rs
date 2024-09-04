@@ -59,20 +59,20 @@ Note that ה (Heh) looks a lot like ח (Chet) and ת (Tav)
 
 #### Non end forms to end forms conversion
 
-כ => ך
+כ ← ך
 
-מ => ם
+מ ← ם
 
-נ => ן
+נ ← ן
 
-פ => ף
+פ ← ף
 
-צ => ץ
+צ ← ץ
 
 Note that some final versions look like a different character but are not:
 
-כ (Kaph) looks a lot like ר (Resh), but is actually ך (Kaph sophit)
-נ (Nun) looks a lot like ו (Vav), but is actually ן (Nun sophit)
+1. כ (Kaph) looks a lot like ר (Resh), but is actually ך (Kaph sophit)
+2. נ (Nun) looks a lot like ו (Vav), but is actually ן (Nun sophit)
 
 ## Nikkud / Dots
 
