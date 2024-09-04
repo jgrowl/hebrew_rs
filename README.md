@@ -71,8 +71,8 @@ Note that ה (Heh) looks a lot like ח (Chet) and ת (Tav)
 
 Note that some final versions look like a different character but are not:
 
-1. כ (Kaph) looks a lot like ר (Resh), but is actually ך (Kaph sophit)
-2. נ (Nun) looks a lot like ו (Vav), but is actually ן (Nun sophit)
+ Kaph (כ) looks a lot like Resh (ר), but is actually Kaph sophit (ך)
+ Nun (נ) looks a lot like Vav (ו), but is actually Nun sophit (ן)
 
 ## Nikkud / Dots
 
