@@ -5,7 +5,7 @@ Hebrew alephbet primatives and parsing library for rust.
 The aim for this library is to fully support all unicode Hebrew characters including final forms,
 nikkud dots, letters, words, and phrases (sentences).
 
-# Progress
+## Progress
 
 - [x] Support basic letter parsing 
 - [x] Support final letter parsing 
@@ -26,7 +26,7 @@ nikkud dots, letters, words, and phrases (sentences).
 - [x] Provide full word representations of each letter
 
 
-# Right to left (RTL) VS Left to Right (LTR)
+## Right to left (RTL) VS Left to Right (LTR)
 
 Hebrew is written from right to left (RTL) in contrast to a language like English that is
 written left to right (LTR). Many programs detect RTL languages and will display them in
@@ -40,24 +40,24 @@ This needs to be kept in mind because any parsed data will be expected to be sto
 is normal for Hebrew, even though it will be displayed LTR on LTR systems.
 
 
-# Letters
+## Letters
 
 Hebrew has 22 total letters. 5 of them have a special final or 'sophit' form which are used
 sometimes when it occurs at the end of a word:
 
-## Non end forms
+### Non end forms
 
 א, ב, ג, ד, ה, ו, ז, ח, ט, י, כ, ל, מ, נ, ס, ע, פ, צ, ק, ר, ש, ת,
 
 Note that ה (Heh) looks a lot like ח (Chet) and ת (Tav)
 
 
-## End forms
+### End forms
 
 ך, ם, ן, ף, ץ
 
 
-## Non end forms to end forms conversion
+#### Non end forms to end forms conversion
 
 כ => ך
 מ => ם
@@ -70,7 +70,7 @@ Note that some final versions look like a different character but are not:
 כ (Kaph) looks a lot like ר (Resh), but is actually ך (Kaph sophit)
 נ (Nun) looks a lot like ו (Vav), but is actually ן (Nun sophit)
 
-# Nikkud / Dots
+## Nikkud / Dots
 
 In addition to the letters, Hebrew also has special diacritical marks. These marks modify how
 letters are pronounced. These modifiers are often not used by native speakers as they know
